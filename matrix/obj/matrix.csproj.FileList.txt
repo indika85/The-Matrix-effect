@@ -1,0 +1,8 @@
+bin\Debug\matrix.exe
+bin\Debug\matrix.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\matrix.Form1.resources
+obj\Debug\matrix.Properties.Resources.resources
+obj\Debug\matrix.csproj.GenerateResource.Cache
+obj\Debug\matrix.exe
+obj\Debug\matrix.pdb
